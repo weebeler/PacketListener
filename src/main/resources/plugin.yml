@@ -1,0 +1,7 @@
+name: PacketListener
+version: '0.1'
+main: org.weebeler.packetListener.Main
+api-version: '1.21'
+load: STARTUP
+authors: [ weebeler ]
+description: Packet listener for use in future projects
